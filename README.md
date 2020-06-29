@@ -1,1 +1,1 @@
-# AI-in-Medical-Diagnosis
+# AI-in-Medicine
